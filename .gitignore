@@ -1,5 +1,4 @@
 __pycache__/
 .ipynb_checkpoints/
 keys.py
-data/*
 pres_sent/
